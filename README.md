@@ -62,7 +62,16 @@ Server environments and experiments with Linux CLI-based setups.
 
 ## Social media handles
 
-{"X":"https://x.com/ishabarundo","instagram":"https://instagram.com/ishabarundo","tiktok":"https://www.tiktok.com/@ishabarundo","linkedin":"https://www.linkedin.com/in/joronimo-amanya-00a516344"}
+X: 
+https://x.com/ishabarundo
+
+Instagram-https://instagram.com/ishabarundo 
+
+tiktok:
+https://www.tiktok.com/@ishabarundo
+
+linkedin:
+https://www.linkedin.com/in/joronimo-amanya-00a516344
 
 ## My Talks
 
